@@ -1,0 +1,6 @@
+c:\users\eishfaq\documents\visual studio 2013\Projects\PracticeCsharp1\PracticeCsharp1\bin\Debug\PracticeCsharp1.exe.config
+c:\users\eishfaq\documents\visual studio 2013\Projects\PracticeCsharp1\PracticeCsharp1\bin\Debug\PracticeCsharp1.exe
+c:\users\eishfaq\documents\visual studio 2013\Projects\PracticeCsharp1\PracticeCsharp1\bin\Debug\PracticeCsharp1.pdb
+c:\users\eishfaq\documents\visual studio 2013\Projects\PracticeCsharp1\PracticeCsharp1\obj\Debug\PracticeCsharp1.exe
+c:\users\eishfaq\documents\visual studio 2013\Projects\PracticeCsharp1\PracticeCsharp1\obj\Debug\PracticeCsharp1.pdb
+C:\Users\Eishfaq\documents\visual studio 2013\Projects\PracticeCsharp1\PracticeCsharp1\obj\Debug\PracticeCsharp1.csprojResolveAssemblyReference.cache
